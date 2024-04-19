@@ -8,7 +8,8 @@ This Python script provides functions to:
 
 **Usage**
 **Save the script:** Save the provided Python code as a file named iam.py
-**Save your JSON file:** Save your file with JSON data representing the IAM role policy in the same directory as iam.py and CHANGE THE FILENAME VARIABLE VALUE TO THE NAME OF YOU JSON FILE.
+**Save your JSON file:** Save your file with JSON data representing the IAM role policy in the same directory as iam.py and **change the filename variale value to the name of your JSON file**
+
 **Run the script:** Execute the script using Python e.g. python iam.py
 
 **Example usage**
